@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# npm debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code files
+.vscode/ # If you want to ignore VS Code workspace settings, keep this. If you want to share, remove.
+
+# Build outputs (common for web projects)
+dist/
+build/
+out/
